@@ -1,3 +1,3 @@
 document.getElementById("keWebLain").addEventListener("click", function() {
-    window.location.href = "https://www.instagram.com/spwip2008";
+    window.location.href = "https://instagram.com/spwip2008";
   });
